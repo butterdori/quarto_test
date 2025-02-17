@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - python.gmd
+      - python.qmd
       - r.qmd
 
 format:
