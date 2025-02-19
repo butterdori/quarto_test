@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: "Home screen"
 ---
 
 This is a Quarto website.
